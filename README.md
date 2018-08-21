@@ -1,2 +1,2 @@
 # mathRandom
-Code that will display zero through four
+Code that will display random numbers through various ways
